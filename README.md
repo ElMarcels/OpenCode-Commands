@@ -3,7 +3,7 @@
 
 ---
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+<center>![License](https://img.shields.io/badge/license-MIT-blue.svg)</center>
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Commands](https://img.shields.io/badge/commands-100%2B-orange.svg)
 
