@@ -1,2 +1,2 @@
-<h1><center>🤖 OpenCode Commands 🤖</center></h1>
-<center><h2>A Repository by [ElMarcels](https://web.elmarcels.xyz)</h2></center>
+<h1 align="center">🤖 OpenCode Commands 🤖</h1>
+<h2 align="center">A Repository by [ElMarcels](https://web.elmarcels.xyz)</h2>
