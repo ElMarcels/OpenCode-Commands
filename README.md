@@ -1,3 +1,4 @@
+<p align="center"> <img src="banner.svg" alt="opencode-commands banner" width="100%"> </p>
 <h1 align="center">🤖 OpenCode Commands 🤖</h1>
 <h2 align="center">A Repository by ElMarcels</h2>
 
